@@ -1,7 +1,7 @@
 # resume-zh
-## 基于 Latex/Overleaf 的中文简历模版。
+## 基于 Latex 的中文简历模版。
 
-技术向同学可以选择此简洁模版。
+技术向同学可以选择此简洁模版。可以在 Overleaf 平台直接使用。
 
 ### 简历样式：
 ![example](https://github.com/MichaelRren/resume-zh/blob/main/docs/images/example.png)
