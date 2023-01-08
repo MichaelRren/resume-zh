@@ -14,7 +14,7 @@
 
 ### 使用方法：
 1. github 上以 zip 格式下载此项目
-2. 将 zip 导入 overleaf 中
+2. 将 zip 导入 Overleaf 中
 3. 在 Overleaf 页面点击 Menu bar，修改 Compiler，从 pdfLaTex 变为 XeLaTex（支持中文）
 4. 修改 resume.tex 文件
 5. 完成后进行 recompile
